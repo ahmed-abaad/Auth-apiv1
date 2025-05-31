@@ -1,0 +1,1058 @@
+2025-05-28 21:57:23 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:00:43 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:27:40 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:42:18 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:42:45 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:44:30 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:44:58 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:46:52 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:47:14 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:49:06 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:50:18 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 22:53:01 [ERROR]: uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:82:12)
+    at node:internal/main/run_main_module:23:47
+ReferenceError: app is not defined
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js:7:1)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:82:12)
+    at node:internal/main/run_main_module:23:47
+2025-05-28 23:00:35 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:01:44 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:02:50 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:04:22 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:05:21 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:06:28 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:11:31 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:14:22 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:16:04 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:16:39 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:17:36 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:18:10 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:21:20 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-28 23:22:57 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-29 19:21:09 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-29 19:23:04 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-29 19:24:05 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-29 19:29:57 [ERROR]: uncaughtException: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-validation'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:2:29)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+2025-05-29 19:32:57 [ERROR]: uncaughtException: Cannot find module 'express-jwt'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+Error: Cannot find module 'express-jwt'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:3:31)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+Error: Cannot find module 'express-jwt'
+Require stack:
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\app.js
+- C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:995:15)
+    at Module._load (node:internal/modules/cjs/loader:841:27)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\middlewares\errorHandler.js:3:31)
+    at Module._compile (node:internal/modules/cjs/loader:1159:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1213:10)
+    at Module.load (node:internal/modules/cjs/loader:1037:32)
+    at Module._load (node:internal/modules/cjs/loader:878:12)
+    at Module.require (node:internal/modules/cjs/loader:1061:19)

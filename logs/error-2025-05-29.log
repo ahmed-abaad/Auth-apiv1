@@ -1,0 +1,130 @@
+2025-05-29 20:17:08 [ERROR]: 500 - Cannot set property query of #<IncomingMessage> which has only a getter - /api/v1/auth/register - GET - ::1 - Stack: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:342:13)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:582:12)
+    at next (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:291:5)
+    at cors (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:224:17
+    at originCallback (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:214:15)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:219:13
+2025-05-29 20:17:08 [ERROR]: 500 - Cannot set property query of #<IncomingMessage> which has only a getter - /favicon.ico - GET - ::1 - Stack: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:342:13)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:582:12)
+    at next (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:291:5)
+    at cors (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:224:17
+    at originCallback (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:214:15)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:219:13
+2025-05-29 20:17:10 [ERROR]: 500 - Cannot set property query of #<IncomingMessage> which has only a getter - /firebase-messaging-sw.js - GET - ::1 - Stack: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:342:13)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:582:12)
+    at next (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:291:5)
+    at cors (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:224:17
+    at originCallback (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:214:15)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:219:13
+2025-05-29 20:37:54 [ERROR]: 500 - Cannot set property query of #<IncomingMessage> which has only a getter - /api/v1/auth/register - POST - ::ffff:127.0.0.1 - Stack: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:342:13)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:582:12)
+    at next (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:291:5)
+    at cors (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:224:17
+    at originCallback (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:214:15)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:219:13
+2025-05-29 22:22:58 [ERROR]: 500 - Cannot set property query of #<IncomingMessage> which has only a getter - /api/v1/auth/register - POST - ::1 - Stack: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:342:13)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:582:12)
+    at next (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:291:5)
+    at cors (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:224:17
+    at originCallback (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:214:15)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:219:13
+2025-05-29 22:35:33 [ERROR]: 500 - Cannot set property query of #<IncomingMessage> which has only a getter - /api/v1/auth/register - POST - ::1 - Stack: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:342:13)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:582:12)
+    at next (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:291:5)
+    at cors (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:224:17
+2025-05-29 22:35:38 [ERROR]: 500 - Cannot set property query of #<IncomingMessage> which has only a getter - /api/v1/auth/register - POST - ::1 - Stack: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:342:13)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:582:12)
+    at next (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:291:5)
+    at cors (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:224:17
+2025-05-29 22:35:43 [ERROR]: 500 - Cannot set property query of #<IncomingMessage> which has only a getter - /api/v1/auth/register - POST - ::1 - Stack: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:342:13)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:582:12)
+    at next (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:291:5)
+    at cors (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:224:17
+2025-05-29 22:35:51 [ERROR]: 500 - Cannot set property query of #<IncomingMessage> which has only a getter - /api/v1/auth/register - POST - ::1 - Stack: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:342:13)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:297:9
+    at processParams (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:582:12)
+    at next (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\router\index.js:291:5)
+    at cors (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\cors\lib\index.js:224:17
+2025-05-29 22:37:43 [ERROR]: 500 - Table 'fleetflow.users' doesn't exist - /api/v1/auth/register - POST - ::1 - Stack: Error: Table 'fleetflow.users' doesn't exist
+    at PromisePool.execute (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at User.create (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\models\User.model.js:5:33)
+    at AuthService.register (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\services\auth.service.js:15:31)
+    at async exports.register (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\controllers\auth.controller.js:12:5)
+2025-05-29 22:41:52 [ERROR]: 500 - Table 'fleetflow.users' doesn't exist - /api/v1/auth/register - POST - ::1 - Stack: Error: Table 'fleetflow.users' doesn't exist
+    at PromisePool.execute (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at User.create (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\models\User.model.js:5:33)
+    at AuthService.register (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\services\auth.service.js:15:31)
+    at async exports.register (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\controllers\auth.controller.js:12:5)
+2025-05-29 23:06:36 [ERROR]: 500 - Table 'fleetflow.login_history' doesn't exist - /api/v1/auth/login - POST - ::1 - Stack: Error: Table 'fleetflow.login_history' doesn't exist
+    at PromisePool.execute (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\mysql2\lib\promise\pool.js:54:22)
+    at LoginHistory.recordLogin (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\models\LoginHistory.model.js:5:16)
+    at AuthService.login (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\services\auth.service.js:50:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.login (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\controllers\auth.controller.js:31:29)
+2025-05-29 23:10:13 [ERROR]: 500 - secretOrPrivateKey must have a value - /api/v1/auth/login - POST - ::1 - Stack: Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\jsonwebtoken\sign.js:111:20)
+    at AuthService.login (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\services\auth.service.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.login (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\controllers\auth.controller.js:31:29)
+2025-05-29 23:19:34 [ERROR]: 500 - secretOrPrivateKey must have a value - /api/v1/auth/login - POST - ::1 - Stack: Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\jsonwebtoken\sign.js:111:20)
+    at AuthService.login (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\services\auth.service.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.login (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\controllers\auth.controller.js:31:29)
+2025-05-29 23:19:36 [ERROR]: 500 - secretOrPrivateKey must have a value - /api/v1/auth/login - POST - ::1 - Stack: Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\node_modules\jsonwebtoken\sign.js:111:20)
+    at AuthService.login (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\services\auth.service.js:57:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async exports.login (C:\Users\Ahmed Abaad\Desktop\fleetflow-Api\src\controllers\auth.controller.js:31:29)
